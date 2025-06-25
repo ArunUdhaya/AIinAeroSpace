@@ -1,5 +1,5 @@
 # Save this as engine_health_app.py
-
+!pip install scikit-learn
 import streamlit as st
 import numpy as np
 import pandas as pd
